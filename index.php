@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="es">
+
+    <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="description" content="Express Machinery Solutions es tu principal fuente de repuestos y productos complementarios para la industria de la construccion mineria y transporte.">
+
+      <link rel="stylesheet" type="text/css" href="vendors/css/normalize.css">
+      <link rel="stylesheet" type="text/css" href="vendors/css/grid.css">
+      <link rel="stylesheet" type="text/css" href="vendors/css/ionicons.min.css">
+      <link rel="stylesheet" type="text/css" href="resources/css/style.css">
+      <link rel="stylesheet" type="text/css" href="resources/css/queries.css">
+      <link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,300italic' rel='stylesheet' type='text/css'>
+      <title>Express Machinery Solutions</title>
+    </head>
+
+    <body>
+      <header>
+        <nav class="nav-background">
+          <div class="row">
+            <img src="resources/img/ems-logo-transparent.png" alt="Express Machinery Solutions logo" class="logo">
+            <img src="resources/img/ems-logo-transparent.png" alt="Express Machinery Solutions logo" class="logo-black">
+            <ul class="main-nav js--main-nav">
+              <li><a href="#features">Nosotros</a></li>
+              <li><a href="#services">Servicios</a></li>
+              <li><a href="#contact">Contacto</a></li>
+            </ul>
+            <a class="mobile-nav-icon js--nav-icon"><i class="ion-navicon-round"></i></a>
+          </div>
+        </nav>
+        <div class="welcome-text">
+            <h1>Bienvenidos a Express Machinery Solutions</h1>
+        </div>
+      </header>
+
+      <section class="section-features js--section-features" id="features">
+        <div class="row">
+          <h2>Soluciones Rapidas <br> &mdash; <br> Productos de alta calidad</h2>
+          <p class="long-copy">
+              Express Machinery Solutions (EMS) es una empresa dedicada a la distribucion
+              de repuestos y productos complementarios para la industria de la construccion, mineria y transporte.
+              Brindamos una respuesta agil y oportuna a sus requerimientos. Conformado por
+              un equipo de trabajo profesional, responsable y comprometido con la satisfaccion
+              de nuestros clientes. <br>
+              Nuestro objetivo fundamental es brindar todos los repuestos y productos
+              necesarios para satisfacer las necesidades de las industrias y las empresas
+              que lo requieran.
+          </p>
+        </div>
+
+        <div class="row js--wp-1">
+          <div class="col span-1-of-4 box">
+            <i class="ion-ios-gear-outline icon-big"></i>
+            <h3>Repuestos</h3>
+            <p>
+              Todos nuestros repuestos son originales de fabrica. Solo ofrecemos los
+              mejores productos con la mayor calidad a los mejores precios.
+            </p>
+          </div>
+          <div class="col span-1-of-4 box">
+            <i class="ion-ios-world-outline icon-big"></i>
+            <h3>Localidad</h3>
+            <p>
+              EMS esta ubicada en Miami, Florida. Desde Miami ofrecemos excelentes
+              opciones de exportacion para que nuestros clientes puedan recibir
+              sus productos de la manera mas rapida y eficiente.
+            </p>
+          </div>
+          <div class="col span-1-of-4 box">
+            <i class="ion-cube icon-big"></i>
+            <h3>Manejo de Carga</h3>
+            <p>
+              A todos nuestros clientes les ofrecemos un servicio de consolidacion
+              de carga, despacho y servicio de entrega de sus productos a su agente
+              de transporte o la facilidad de envio a su destino deseado.
+            </p>
+          </div>
+          <div class="col span-1-of-4 box">
+            <i class="ion-ios-cart-outline icon-big"></i>
+            <h3>Requerimientos</h3>
+            <p>
+              Aunque EMS se especializa en la distribucion de respuestos de maquinaria,
+              tambien tenemos los recursos para ayudar a nuestros clientes a encontrar
+              cualquier tipo de productos o accesorios para satisfacer sus necesidades.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <section class="section-brands">
+        <ul class="brands-showcase clearfix">
+          <li>
+            <figure class="brand-photo">
+              <img src="resources/img/Grove.jpg" alt="Grua Grove Todo Terreno">
+            </figure>
+          </li>
+          <li>
+            <figure class="brand-photo">
+              <img src="resources/img/Volvo.jpg" alt="Excavadora Volvo">
+            </figure>
+          </li>
+          <li>
+            <figure class="brand-photo">
+              <img src="resources/img/Manitowoc.jpg" alt="Grua Manitowoc Crawler">
+            </figure>
+          </li>
+          <li>
+            <figure class="brand-photo">
+              <img src="resources/img/constructionpotain.jpg" alt="Grua Potain">
+            </figure>
+          </li>
+        </ul>
+
+      </section>
+
+      <section class="section-services" id="services">
+        <div class="row">
+            <h2>Productos &mdash; Servicios</h2>
+        </div>
+          <div class="row">
+            <div class="col span-1-of-2 steps-box">
+                <img src="resources/img/hook.jpg" alt="Polea de Gancho para Gruas" class="hook-pic">
+            </div>
+            <div class="col span-1-of-2 steps-box">
+              <div class="works-step clearfix">
+                  <div>1</div>
+                  <p>Nuestras marcas principales son:<br> Grupo Manitowoc/Grove, LinkBelt, Grupo Terex/Demag.</p>
+              </div>
+              <div class="works-step clearfix">
+                  <div>2</div>
+                  <p>Aparte de nuestras marcas principales tambien ayudamos a nuestros clientes a encontrar cualquier producto que requieran.</p>
+              </div>
+              <div class="works-step clearfix">
+                  <div>3</div>
+                  <p>Ofrecemos diferentes precios dependiendo de la necesidad del cliente. Emergencia Aerea, Emergencia Terrestre y Envio Normal</p>
+              </div>
+            </div>
+          </div>
+      </section>
+
+      <section class="section-form" id="contact">
+        <div class="row">
+            <h2>Contactanos</h2>
+        </div>
+        <div class="row" id="form">
+          <form method="post" action="mailer.php" class="contact-form">
+            <div class=row>
+              <?php
+                if($_GET['success'] == 1) {
+                  echo "<div class=\"form-messages success\">Muchas Gracias! Tu mensaje ha sido enviado.</div>";
+                }
+                if($_GET['success'] == -1) {
+                  echo "<div class=\"form-messages error\">Error! Por favor tratar nuevamente.</div>";
+                }
+
+              ?>
+            </div>
+            <div class="row">
+              <div class="col span-1-of-3">
+                <label for="name">Nombre</label>
+              </div>
+              <div class="col span-2-of-3">
+                <input type="text" name="name" id="name" placeholder="Nombre" required>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col span-1-of-3">
+                <label for="email">Email</label>
+              </div>
+              <div class="col span-2-of-3">
+                <input type="email" name="email" id="email" placeholder="Email" required>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col span-1-of-3">
+                <label>Mensaje</label>
+              </div>
+              <div class="col span-2-of-3">
+                <textarea name="message" placeholder="Mensaje"></textarea>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col span-1-of-3">
+                <label>&nbsp;</label>
+              </div>
+              <div class="col span-2-of-3">
+                <input type="submit" value="Enviar!">
+              </div>
+            </div>
+          </form>
+        </div>
+      </section>
+
+      <footer>
+        <div class="row">
+          <p>
+            Copyright &copy; 2017 Express Machinery Solutions. Todos los derechos reservados.
+          </p>
+        </div>
+      </footer>
+
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+      <script src="//cdn.jsdelivr.net/respond/1.4.2/respond.min.js"></script>
+      <script src="//cdn.jsdelivr.net/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="//cdn.jsdelivr.net/selectivizr/1.0.3b/selectivizr.min.js"></script>
+      <script src="vendors/js/jquery.waypoints.min.js"></script>
+      <script src="resources/js/script.js"></script>
+
+    </body>
+</html>
